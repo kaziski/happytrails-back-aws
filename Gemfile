@@ -16,7 +16,8 @@ gem 'pry'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
-
+gem 'rspec-rails'
+gem 'rails_serve_static_assets'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
